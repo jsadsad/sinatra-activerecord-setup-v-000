@@ -12,7 +12,7 @@ gem 'require_all'
 group :development do
 	gem 'shotgun'
 	gem 'pry'
-	gem 'sqllite3'
+	gem 'sqlite3'
 	gem 'tux'
 end
     
