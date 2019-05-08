@@ -11,7 +11,7 @@ gem 'require_all'
 group :development do
 	gem 'shotgun'
 	gem 'pry'
-	gem 'sqlite3', '~> 1.3.6'
+	gem 'sqlite3', '~> 1.3.6' #need specificity for rake
 	gem 'tux'
 end
     
